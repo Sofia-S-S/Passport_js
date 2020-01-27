@@ -279,6 +279,8 @@ $(document).ready(function() {
 
 # public -> stylesheets -> style.css
 
+I would say Public folder is all our visuals for an App. There is all HTML files and CSS styles for them.
+
 # public -> login.html
 
 # public -> members.html
